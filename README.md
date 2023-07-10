@@ -5,8 +5,8 @@ users are able to see recipes created by others.
 react, redux, mdbootstrap are used in this project.
 
 install "npm" in both folders.
-"npm start" in server directory.
-"npm run dev" in client directory.
+"npm start" in client directory.
+"npm run dev" in server directory.
 
 add your google clientid in client\src\pages\Login.js\ line 108- clientid= "your client id".
 thankyou.
